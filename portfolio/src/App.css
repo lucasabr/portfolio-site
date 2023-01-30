@@ -5,17 +5,49 @@ body {
 .App {
   text-align: center;
 }
-.IntroBox {
+.HomeBox {
   height: 70%;
   width: 70%;
-  margin: 15%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15%;
+  margin-top: 2.5%;
+  display: flex;
+  flex-direction: row;
+}
+
+.IntroBox {
+  width: 30%;
 }
 
 .Intro {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 35px;
+  font-size: 3vw;
   font-weight: lighter;
   color: whitesmoke
+}
+
+.homePhoto {
+  height: 35%;
+  width: 50%;
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .Intro {
+    font-size: 7vw;
+  }
+  .IntroBox {
+    width: 70%;
+  }
+  .homePhoto{
+    width: 70%;
+    height: 50%;
+    size: 5vw
+  }
+  .HomeBox {
+    flex-direction: column;
+  }
 }
 
 nav {

@@ -6,8 +6,7 @@ const Home = (props) => {
             <div className="IntroBox">
                 <h1 className='Intro'>{props.message}</h1>
             </div>
-            <div className="vertical"></div>
-            <img src="./IMG_1623.jpeg" alt="Photo of Me" className='homePhoto'></img>
+            <img src="./IMG_1623-min.jpeg" alt="Photo of Me" className='homePhoto'></img>
         </div>
     )};
 

@@ -10,7 +10,7 @@ function App() {
     <div className="App">
         <Header />
         <Home message={homeContent.message} />
-        <Contact message={contactContent.message} links={contactContent.links}/>
+        <Contact message={contactContent.message} links={contactContent.links} />
     </div>
   );
 }

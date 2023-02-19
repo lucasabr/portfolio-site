@@ -1,12 +1,16 @@
 {
     "jobs" : [
         {
-            "img": "",
-            "desc": ""
+            "img": "./CaseWare.jpeg",
+            "title": "Software Engineer Intern",
+            "timeline": "Sep. 2022 - Apr. 2023",
+            "desc": "Working on backend microservices using TypeScript."
         },
         {
-            "img": "",
-            "desc": ""
+            "img": "./VerticalScope.jpeg",
+            "title": "Quality Assurance Engineer Intern",
+            "timeline": "Sep. 2021 - Dec. 2021",
+            "desc": "Wrote automation tests with Python and Selenium and perform manual and regression testing using various tools."
         }
     ]
 }

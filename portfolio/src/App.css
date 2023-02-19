@@ -31,13 +31,31 @@ body {
   flex-direction: column;
 }
 
+.ExperienceBox {
+  height: 70%;
+  width: 70%;
+  margin-left: 15%;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
 .LinksBox {
   display: flex; 
   flex-direction: row;
   justify-content: center;
 }
 
+.JobBox {
+  display: flex;
+  flex-direction: row;
+}
 
+.JobInfo {
+  display: flex;
+  flex-direction: column;
+}
 
 .IntroBox {
   width: 30%;

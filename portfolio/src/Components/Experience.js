@@ -1,13 +1,13 @@
 import '../App.css';
-import Item from './Item';
+import Job from './Job';
 
 const Experience = (props) => {
     return (
-        <div>
+        <div id="experience">
             <h1>Experience</h1>
-            <div id="experience" className="ExperienceBox">
+            <div className="ExperienceBox">
                 {props.jobs.map((job) => {
-                    return <Item img={job.img} desc={job.desc}/>
+                    return <Job title={job.title} timeline={job.timeline} img={job.img} desc={job.desc}/>
                 })}
             </div>
         </div>

@@ -1,5 +1,5 @@
 import '../App.css';
-import Item from './Item';
+import Project from './Project';
 
 const Projects = (props) => {
     return (
@@ -7,7 +7,7 @@ const Projects = (props) => {
             <h1>Projects</h1>
             <div id="projects" className="ExperienceBox">
                 {props.projects.map((item) => {
-                    return <Item img={item.img} desc={item.desc}/>
+                    return <Project title={item.title} desc={item.desc}/>
                 })}
             </div>
         </div>

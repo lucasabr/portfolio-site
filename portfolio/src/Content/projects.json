@@ -2,18 +2,15 @@
     "projects" : [
         {
             "title": "",
-            "img": "",
             "desc": ""
         },
         {
             "title": "",
-            "img": "",
             "desc": ""
         },
         {
-            "title": "",
-            "img": "",
-            "desc": ""
+            "title": "Portfolio Website",
+            "desc": "Portfolio yeah yeah yeah"
         }
     ]
 }

@@ -4,13 +4,13 @@
             "img": "./CaseWare.jpeg",
             "title": "Software Engineer Intern",
             "timeline": "Sep. 2022 - Apr. 2023",
-            "desc": "Working on backend microservices using TypeScript."
+            "desc": "Working on ETL microservices using TypeScript, NodeJS, Angular, DynamoDB, S3."
         },
         {
             "img": "./VerticalScope.jpeg",
             "title": "Quality Assurance Engineer Intern",
             "timeline": "Sep. 2021 - Dec. 2021",
-            "desc": "Wrote automation tests with Python and Selenium and perform manual and regression testing using various tools."
+            "desc": "Wrote automation tests for frontend services using Python and Selenium."
         }
     ]
 }

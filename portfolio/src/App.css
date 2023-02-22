@@ -1,7 +1,13 @@
 body {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
   background-color: #282c34;
+  color: whitesmoke;
 }
 
+h3 {
+  font-weight: normal;
+}
 .App {
   text-align: center;
 }
@@ -35,6 +41,7 @@ body {
   height: 70%;
   width: 70%;
   margin-left: 15%;
+  padding-bottom: 15%;
   justify-content: center;
   align-content: center;
   display: flex;
@@ -50,8 +57,15 @@ body {
 .JobBox {
   display: flex;
   flex-direction: row;
+  padding-bottom: 5%;
 }
 
+.JobBox img {
+  height: 30%;
+  width: 35%;
+  margin-right: 5%;
+  margin-top: 5%;
+}
 .JobInfo {
   display: flex;
   flex-direction: column;
@@ -65,7 +79,6 @@ body {
   font-family: 'Courier New', Courier, monospace;
   font-size: 3vw;
   font-weight: lighter;
-  color: whitesmoke;
 }
 
 .homePhoto {
@@ -74,7 +87,6 @@ body {
 }
 
 nav {
-  color: whitesmoke;
   background-color: whitesmoke;
   position: fixed;
   top: 0;
@@ -123,14 +135,23 @@ a {
     flex-direction: column;
     margin-top: 15%;
   }
+  
+  .JobBox img {
+    margin-left: 25%;
+    width: 50%;
+  }
+
+  .JobBox {
+    flex-direction: column;
+  }
 
   nav li {
     padding: 4vw;
-    margin: 0, 4vw;
+    margin: 0, 3.2vw;
   }
 
   a{
-    font-size: 4vw;
+    font-size: 3.5vw;
   }
 }
 

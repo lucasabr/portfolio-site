@@ -1,14 +1,16 @@
 import '../App.css';
 
-const Item = (props) => {
+const Job = (props) => {
     return (
         <div className="JobBox">
             <img src={props.img}></img>
             <div className="JobInfo">
+                <h1>{props.title}</h1>
+                {props.timeline && <h3>{props.timeline}</h3>}
                 <p className="JobDescription">{props.desc}</p>
             </div>
         </div>
     )
 };
 
-export default Item;
+export default Job;

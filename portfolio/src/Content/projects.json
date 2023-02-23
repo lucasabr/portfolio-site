@@ -1,16 +1,20 @@
 {
     "projects" : [
         {
-            "title": "",
-            "desc": ""
+            "title": "Clarity Blog (Website)",
+            "desc": "Backend and Frontend authentication, account creation and profile customization system for a social media website. Created using MongoDB, Express, Node, React, and severall libraries."
         },
         {
-            "title": "",
-            "desc": ""
+            "title": "Anonymous Chat Site",
+            "desc": "Used websockets to send text and audio messages to an anonymous global chat. Created with a Vue frontend and a Go backend."  
         },
         {
             "title": "Portfolio Website",
-            "desc": "Portfolio yeah yeah yeah"
+            "desc": "I created the website you're visiting right now over my break using React."
+        },
+        {
+            "title": "Clarity Bot (Discord Bot)",
+            "desc": "One of my first personal projects was creating a discord bot using Python. This bot performed a variety of functions, including simulating raffles, and querying stock and github data."
         }
     ]
 }

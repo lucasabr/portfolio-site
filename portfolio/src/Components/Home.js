@@ -1,4 +1,5 @@
 import '../App.css';
+import photo from '../photos/IMG_1623-min.jpeg';
 
 const Home = (props) => {
     return (
@@ -6,7 +7,7 @@ const Home = (props) => {
             <div className="IntroBox">
                 <h1 className='Intro'>{props.message}</h1>
             </div>
-            <img src="./IMG_1623-min.jpeg" alt="Photo of Me" className='homePhoto'></img>
+            <img src={photo} alt="Photo of Me" className='homePhoto'></img>
         </div>
     )};
 

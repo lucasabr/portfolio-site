@@ -6,7 +6,7 @@ import Experience from './Components/Experience';
 import Projects from './Components/Projects';
 import homeContent from './Content/home.json';
 import contactContent from './Content/contact.json';
-import jobContent from './Content/jobs.json';
+import jobContent from './Content/jobs.js';
 import projectContent from './Content/projects.json';
 
 function App() {

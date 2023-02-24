@@ -1,3 +1,5 @@
+@import url('https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css');
+
 body {
   font-family: 'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -41,7 +43,7 @@ h3 {
   height: 70%;
   width: 70%;
   margin-left: 15%;
-  padding-bottom: 20%;
+  padding-bottom: 22%;
   justify-content: center;
   align-content: center;
   display: flex;
@@ -61,7 +63,7 @@ h3 {
 }
 
 i {
-  font-size: 8vw;
+  font-size: 7vw;
 }
 
 .JobBox img {

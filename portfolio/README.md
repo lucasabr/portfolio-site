@@ -1,2 +1,3 @@
-#Portfolio Website
-hosted at lucasaguiar.ca
+# Portfolio Site
+
+Hosted at lucasaguiar.ca

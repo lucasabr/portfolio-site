@@ -1,8 +1,7 @@
 {
-    "message": "Contact me or check out what I'm up to at any of the links below!",
+    "message": "Check out what I'm up to at any of the links below!",
     "links": {
         "github": "https://www.github.com/lucasabr",
-        "linkedin": "https://www.linkedin.com/in/-lucasaguiar",
-        "email": "lucas.r.a.aguiar@gmail.com"
+        "linkedin": "https://www.linkedin.com/in/-lucasaguiar"
     }
 }

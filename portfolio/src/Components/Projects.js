@@ -7,7 +7,7 @@ const Projects = (props) => {
             <h1 id="projects">Projects</h1>
             <div  className="ExperienceBox">
                 {props.projects.map((item) => {
-                    return <Project title={item.title} desc={item.desc}/>
+                    return <Project link={item.link} title={item.title} desc={item.desc}/>
                 })}
             </div>
         </div>

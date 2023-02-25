@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9d890a61.css",
-    "main.js": "/static/js/main.d41880aa.js",
+    "main.js": "/static/js/main.9892509c.js",
     "static/media/IMG_1623-min.jpeg": "/static/media/IMG_1623-min.b690f002c6083b2ae256.jpeg",
     "static/media/CaseWare.jpeg": "/static/media/CaseWare.1f927ed58a82bc15f96c.jpeg",
     "static/media/VerticalScope.jpeg": "/static/media/VerticalScope.f50cca002e8f5510a7e5.jpeg",
     "index.html": "/index.html",
     "main.9d890a61.css.map": "/static/css/main.9d890a61.css.map",
-    "main.d41880aa.js.map": "/static/js/main.d41880aa.js.map"
+    "main.9892509c.js.map": "/static/js/main.9892509c.js.map"
   },
   "entrypoints": [
     "static/css/main.9d890a61.css",
-    "static/js/main.d41880aa.js"
+    "static/js/main.9892509c.js"
   ]
 }

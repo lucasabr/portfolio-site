@@ -1,12 +1,14 @@
+import { StyledAnchor } from "./StyledAnchor";
+
 const Header = () => {
     return (
         <header>
             <nav>
                 <ul>
-                    <li><a href='#home'>Home</a></li>
-                    <li><a href='#experience'>Experience</a></li>
-                    <li><a href='#projects'>Projects</a></li>
-                    <li><a href='#contact'>Contact</a></li>
+                    <li><StyledAnchor href='#home'>Home</StyledAnchor></li>
+                    <li><StyledAnchor href='#experience'>Experience</StyledAnchor></li>
+                    <li><StyledAnchor href='#projects'>Projects</StyledAnchor></li>
+                    <li><StyledAnchor href='#contact'>Contact</StyledAnchor></li>
                 </ul>
             </nav>
         </header>       

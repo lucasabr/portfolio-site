@@ -111,7 +111,10 @@ nav li {
   color: #282c34;
 };
 
-nav a {}
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
 
 a { 
   font-size: 1.2vw;

@@ -1,5 +1,5 @@
 import '../App.css';
-import photo from '../photos/IMG_1623-min.jpeg';
+import photo from '../photos/Edited-8296.jpeg';
 
 const Home = (props) => {
     return (

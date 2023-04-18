@@ -23,7 +23,7 @@ h3 {
   flex-direction: row;
   animation: intro-load 2000ms ease-in;
   animation-delay: 500ms;
-  padding: 0 0 15% 0;
+  padding: 3.5% 0 15% 0;
 }
 
 .ContactBox {
@@ -46,6 +46,24 @@ h3 {
   align-content: center;
   display: flex;
   flex-direction: column;
+}
+
+.ProjectsBox {
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+.ProjectsBox > div {
+  flex: 40%;
+  padding: 5%;
+}
+
+.ProjectInfo {
+  width: 70%;
 }
 
 .LinksBox {
@@ -175,4 +193,12 @@ a {
 
 html {
   scroll-behavior: smooth;
+}
+
+#projects {
+  padding: 5%;
+}
+
+#experience {
+  padding: 5%;
 }

@@ -5,7 +5,7 @@ const Projects = (props) => {
     return (
         <div>
             <h1 id="projects">Projects</h1>
-            <div  className="ExperienceBox">
+            <div  className="ProjectsBox">
                 {props.projects.map((item) => {
                     return <Project link={item.link} title={item.title} desc={item.desc}/>
                 })}

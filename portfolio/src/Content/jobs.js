@@ -5,8 +5,8 @@ export default {
     "jobs" : [
         {
             "img": caseware,
-            "title": "Software Engineer Intern",
-            "timeline": "Sep. 2022 - Apr. 2023",
+            "title": "Software Engineer",
+            "timeline": "Sep. 2022 - Apr. 2023 (Intern)\nMay. 2023 - Apr. 2024 (Part Time)",
             "desc": "Working on ETL microservices using TypeScript, NodeJS, Angular, DynamoDB, S3."
         },
         {

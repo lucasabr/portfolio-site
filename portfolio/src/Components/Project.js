@@ -3,12 +3,12 @@ import { StyledAnchor } from './StyledAnchor';
 
 const Project = (props) => {
     return (
-        <div className="ProjectBox">
+        <StyledAnchor className="ProjectBox" href={props.link} target="_blank">
             <div className="ProjectInfo">
-                <StyledAnchor href={props.link} target="_blank"><h1>{props.title}</h1></StyledAnchor>
+                <h2>{props.title}</h2>
                 <p className="ProjectDescription">{props.desc}</p>
             </div>
-        </div>
+        </StyledAnchor>
     )
 };
 

@@ -55,7 +55,7 @@ h3 {
 
 .ProjectsBox {
   margin-top: -2%;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   justify-content: center;
   align-content: center;
   display: flex;
@@ -81,7 +81,7 @@ h3 {
 }
 
 .ProjectInfo {
-  font-size: 1.1vw;
+  font-size: 1.3vw;
   justify-content: center;
 }
 
@@ -206,7 +206,8 @@ a {
 
   nav li {
     padding: 4vw;
-    margin: 0, 3.2vw;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
   }
 
   a{

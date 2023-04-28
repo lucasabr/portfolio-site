@@ -7,7 +7,7 @@
         },
         {
             "title": "Anonymous Chat Site",
-            "desc": "Used websockets to send text and audio messages to an anonymous global chat room. Created with a Vue frontend, and a Go backend.",
+            "desc": "Used websockets to send text and audio messages to an anonymous global chat room. Created with a Vue frontend, and a Go backend using Gorilla/MUX frameworks.",
             "link": "https://github.com/lucasabr/chat-app"
         },
         {

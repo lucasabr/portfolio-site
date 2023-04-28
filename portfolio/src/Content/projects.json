@@ -2,17 +2,17 @@
     "projects" : [
         {
             "title": "Clarity Blog (Website)",
-            "desc": "Backend and Frontend authentication, account creation and profile customization system for a social media website. Created using MongoDB, Express, Node, and React.",
+            "desc": "Backend/Frontend authentication, account creation and profile customization system for a social media website. Created using MongoDB, Express, Node, and React.",
             "link": "https://github.com/lucasabr/clarity-blog/"
         },
         {
             "title": "Anonymous Chat Site",
-            "desc": "Used websockets to send text and audio messages to an anonymous global chat room. Created with a Vue frontend, and a Go backend using the Gorilla/MUX frameworks.",
+            "desc": "Used websockets to send text and audio messages to an anonymous global chat room. Created with a Vue frontend, and a Go backend.",
             "link": "https://github.com/lucasabr/chat-app"
         },
         {
             "title": "Portfolio Website",
-            "desc": "The website you're visiting right now was created by me over one of my breaks. Created using React and Github Pages.",
+            "desc": "This website was created by me over one of my breaks. Created using React and Github Pages.",
             "link": "https://github.com/lucasabr/portfolio-site"
         },
         {

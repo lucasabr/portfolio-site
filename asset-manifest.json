@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.53cab393.css",
+    "main.css": "/static/css/main.595302e3.css",
     "main.js": "/static/js/main.54400059.js",
     "static/media/Edited-8296.jpeg": "/static/media/Edited-8296.58e3e999f5e0e0b7c49c.jpeg",
     "static/media/CaseWare.jpeg": "/static/media/CaseWare.1f927ed58a82bc15f96c.jpeg",
     "static/media/VerticalScope.jpeg": "/static/media/VerticalScope.f50cca002e8f5510a7e5.jpeg",
     "index.html": "/index.html",
-    "main.53cab393.css.map": "/static/css/main.53cab393.css.map",
+    "main.595302e3.css.map": "/static/css/main.595302e3.css.map",
     "main.54400059.js.map": "/static/js/main.54400059.js.map"
   },
   "entrypoints": [
-    "static/css/main.53cab393.css",
+    "static/css/main.595302e3.css",
     "static/js/main.54400059.js"
   ]
 }
